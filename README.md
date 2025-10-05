@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# Sales Performance Analysis of Walmart Stores
 
 ## About
 
